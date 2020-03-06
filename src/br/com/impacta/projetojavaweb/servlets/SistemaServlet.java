@@ -65,6 +65,7 @@ public class SistemaServlet extends HttpServlet {
 			out.println("<h3><a href='login.html'>Logout</a></h3>");
 			out.println("</body>");
 			out.println("</html>");
+			
 		}
 	}
 }
